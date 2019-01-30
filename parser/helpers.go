@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	. "github.com/killer-queen-stats/libkq/common"
+	. "github.com/ughoavgfhw/libkq/common"
 )
 
 type InvalidSideError string

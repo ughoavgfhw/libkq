@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/killer-queen-stats/libkq/io"
-	"github.com/killer-queen-stats/libkq/parser"
+	"github.com/ughoavgfhw/libkq/io"
+	"github.com/ughoavgfhw/libkq/parser"
 )
 
 // Cabinet manages a connection to a killer queen cabinet. It reads and parses

@@ -1,6 +1,6 @@
 package parser
 
-import . "github.com/killer-queen-stats/libkq/common"
+import . "github.com/ughoavgfhw/libkq/common"
 
 type PickUpBerryMessage struct {
 	Player PlayerId

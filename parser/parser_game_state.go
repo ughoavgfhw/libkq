@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	. "github.com/killer-queen-stats/libkq/common"
+	. "github.com/ughoavgfhw/libkq/common"
 )
 
 type GameStartMessage struct {

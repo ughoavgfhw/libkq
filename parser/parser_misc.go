@@ -1,7 +1,7 @@
 package parser
 
 import "strconv"
-import . "github.com/killer-queen-stats/libkq/common"
+import . "github.com/ughoavgfhw/libkq/common"
 
 type AliveMessage string
 

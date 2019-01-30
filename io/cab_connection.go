@@ -1,4 +1,4 @@
-package kqio // Import path github.com/killer-queen-stats/libkq/io
+package kqio // Import path github.com/ughoavgfhw/libkq/io
 
 import (
 	"fmt"

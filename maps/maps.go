@@ -1,7 +1,7 @@
 package maps
 
 import "fmt"
-import . "github.com/killer-queen-stats/libkq/common"
+import . "github.com/ughoavgfhw/libkq/common"
 
 func MetadataForMap(m Map) *MapMetadata {
 	switch m {

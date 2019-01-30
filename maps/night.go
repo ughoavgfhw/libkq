@@ -1,6 +1,6 @@
 package maps
 
-import . "github.com/killer-queen-stats/libkq/common"
+import . "github.com/ughoavgfhw/libkq/common"
 
 var Night = &MapMetadata{
 	Hives: []HiveMetadata{

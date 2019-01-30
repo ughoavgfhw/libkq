@@ -1,7 +1,7 @@
 package libkq
 
 import "time"
-import . "github.com/killer-queen-stats/libkq/common"
+import . "github.com/ughoavgfhw/libkq/common"
 
 type GameState struct {
 	Start, End         time.Time
